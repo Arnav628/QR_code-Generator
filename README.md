@@ -8,3 +8,9 @@ Created a QR code generator application using HTML, CSS, and JavaScript that all
 + **Uses external QR codes generation library**
 
 # Screenshots
+
+![Screenshot (40)](https://github.com/Arnav628/QR_code-Generator/assets/135796735/d365560a-c6e3-46f9-b3bb-f644b905d6f0)
+
+
+
+![Screenshot (33)](https://github.com/Arnav628/QR_code-Generator/assets/135796735/afab3c60-58ff-495d-9929-1d8fbf914406)
